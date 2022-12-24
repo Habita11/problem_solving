@@ -11,7 +11,7 @@
 5-Replace digits in a string : ***https://leetcode.com/problems/replace-all-digits-with-characters/***
 
 ***Mostafa Saad***
-6-Beautiful matrix :***http://codeforces.com/contest/263/problem/A***
+-Beautiful matrix :***http://codeforces.com/contest/263/problem/A***
 
 ***Different sources***
 - Find the winner of the circular game : ***https://leetcode.com/problems/find-the-winner-of-the-circular-game/description/***
