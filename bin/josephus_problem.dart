@@ -4,7 +4,7 @@ void main() {
   print(getLastSurvival(persons));
 }
 
-/// Jousephus problem : https://leetcode.com/problems/find-the-winner-of-the-circular-game/description/
+/// Josephus problem : https://leetcode.com/problems/find-the-winner-of-the-circular-game/description/
 /// so close solution :D
 List getLastSurvival(List persons) {
   if (persons.length == 1) return persons;
